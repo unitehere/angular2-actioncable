@@ -1,12 +1,12 @@
 {
-  "name": "angular2-actioncable",
+  "name": "@unitehere/angular2-actioncable",
   "version": "6.1.0",
   "description": "Simple and flexible integration for ActionCable and Angular applications",
   "main": "angular2-actioncable.js",
   "scripts": {
     "build": "ng-packagr"
   },
-  "repository": "nolancaster/angular2-actioncable",
+  "repository": "unitehere/angular2-actioncable",
   "keywords": [
     "actioncable",
     "angular",
