@@ -6,7 +6,7 @@
   "scripts": {
     "build": "ng-packagr"
   },
-  "repository": "nolancaster/angular2-actioncable",
+  "repository": "unitehere/angular2-actioncable",
   "keywords": [
     "actioncable",
     "angular",
@@ -14,8 +14,7 @@
     "angular-cable",
     "angular2",
     "angular4",
-    "angular5",
-    "angular6",
+    "angular10",
     "angular2-actioncable",
     "angular2-cable",
     "cable",
@@ -39,7 +38,7 @@
   },
   "peerDependencies": {
     "@angular/core": ">2.4.10",
-    "rxjs": ">6.0.0 <6.3.3"
+    "rxjs": ">6.0.0 <12.0.0"
   },
   "devDependencies": {
     "@angular/compiler": "^13.2.5",
