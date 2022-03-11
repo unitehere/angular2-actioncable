@@ -1,6 +1,6 @@
 {
   "name": "angular2-actioncable",
-  "version": "6.0.2",
+  "version": "6.1.0",
   "description": "Simple and flexible integration for ActionCable and Angular applications",
   "main": "angular2-actioncable.js",
   "scripts": {
